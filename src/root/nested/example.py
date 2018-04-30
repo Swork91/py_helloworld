@@ -5,6 +5,7 @@ Created on Apr 30, 2018
 '''
 #I am a comment. For some reason my interpreter thinks that grey on white is a
 #good idea. I guess I know what their Eclipse theme is.
+from math import ceil
 print('is items 5????')
 
 items = 3
@@ -51,3 +52,4 @@ def dork (v,w):
         return True
     
 print(dork(vacation, weekday))
+print (ceil(GPA))
